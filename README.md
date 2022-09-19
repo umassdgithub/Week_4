@@ -1,4 +1,4 @@
-# Major Assignment 01 
+# Exercise
 
 1) Review the examples in the following GitHub repository:
 
