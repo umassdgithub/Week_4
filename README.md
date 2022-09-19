@@ -1,6 +1,6 @@
 # Major Assignment 01 
 
-1) Review the examples in the following GitHub repository: https://github.com/UmassDSP22/Week-4
+1) Review the examples in the following GitHub repository:
 
 2) Clone Complete the whole repo. Complete the Exercise (Details are inside the HTML file)
 
