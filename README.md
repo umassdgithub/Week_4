@@ -1,6 +1,8 @@
 # Week 3 - Introduction to HTML and CSS
 
-This GitHub repository provided the examples on how to make basic html code.
+This GitHub repository provides some examples on how to make basic html code.
+
+Please refer to [MDN](https://developer.mozilla.org/en-US/) for detailed information.
 
 
 ## Self Exercise - Not Graded
