@@ -1,4 +1,9 @@
-# Self Exercise - Not Graded
+# Week 3 - Introduction to HTML and CSS
+
+This GitHub repository provided the examples on how to make basic html code.
+
+
+## Self Exercise - Not Graded
 
 1) Review the examples in the following GitHub repository:
 
