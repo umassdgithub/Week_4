@@ -1,4 +1,4 @@
-# Self Exercise
+# Self Exercise - Not Graded
 
 1) Review the examples in the following GitHub repository:
 
